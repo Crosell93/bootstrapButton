@@ -7,3 +7,5 @@
 
 	};
 })(jQuery);
+
+$('bootstrap_button').bootstrapButton();
